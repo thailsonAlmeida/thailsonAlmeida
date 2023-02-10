@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Thailson Almeida 😁
+## Olá, sou o Thailson, seja bem vindo(a)
 
  <div>
    <a href="https://github.com/thailsonAlmeida">
