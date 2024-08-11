@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por Java e Spring Boot. Estou sempre em busca de
 
 ## Projetos Destacados
 - [Caixa Eletrônico](https://github.com/thailsonAlmeida/spring_boot_caixapro): Desenvolvido com Spring Boot, H2 e Thymeleaf com objetivo de praticar o uso de desing patterns.
-- [Componente React](https://github.com/thailsonAlmeida/desafio_component_dev): Programar um layout utilizando o conceito de componente.
+- [Componente React](https://github.com/thailsonAlmeida/desafio_component_dev): Layout programado em React para consolidar conceito.
 - [Calculadora](https://github.com/thailsonAlmeida/calculadora_flutter): Desenvolvido em flutter para consolidar conceitos.
 
 
