@@ -13,8 +13,8 @@ Sou um desenvolvedor apaixonado por Java e Spring Boot. Estou sempre em busca de
 
 
 ## Minhas Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thailsonAlmeida&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thailsonAlmeida&layout=compact&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thailsonAlmeida&show_icons=true&theme=ayu-mirage)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thailsonAlmeida&layout=compact&theme=ayu-mirage)
 
 ## Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/thailsonalmeida/)
