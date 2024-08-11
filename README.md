@@ -1,36 +1,33 @@
-## Olá, sou o Thailson, seja bem vindo(a)
+# Olá! Eu sou Thailson 👋
 
-<div>
-   <a href="https://github.com/thailsonAlmeida">
-   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailsonAlmeida&layout=pie"/>   
-</div>
+## Sobre Mim
+Sou um desenvolvedor apaixonado por Java e Spring Boot. Estou sempre em busca de novas oportunidades para aprender e crescer, especialmente em desenvolvimento backend e arquitetura de software. Adoro resolver problemas e transformar ideias em código.
 
- 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Thailson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thailson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thailson-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thailson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Thailson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Thailson-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Thailson-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
-</div>
- 
-##
- 
-<div>
- 
- <a href="https://www.linkedin.com/in/thailson-de-almeida-silva-389822232/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a>
- 
- <a href="https://www.instagram.com/thailsonpro/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
- </a>
- 
- <a href = "mailto:thailson.aguia@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- </a>
- 
-</div>
+## Habilidades
+- **Linguagens:** Java, JavaScript, Dart
+- **Frameworks:** Spring Boot, React, Flutter
+- **Ferramentas:** Git, Maven
+- **Bancos de Dados:** MySQL, PostgreSQL, H2
+
+## Projetos Destacados
+
+
+## Minhas Estatísticas no GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thailsonAlmeida&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thailsonAlmeida&layout=compact&theme=dracula)
+
+## Conecte-se Comigo
+- [LinkedIn](https://www.linkedin.com/in/thailsonalmeida/)
+- [Email](mailto:thailson.aguia@gmail.com)
+
+## Contribuições e Colaborações
+Estou sempre aberto a novas ideias e colaborações! Sinta-se à vontade para abrir issues ou enviar pull requests nos meus repositórios.
+
+## Outros Interesses
+- 📚 Aprendizado: Gosto de conhecer e aprender coisas novas.
+- 🎬 Entrenimento: Gosto de assistir filmes, series e animes.
+- 🏆 Esportes: Gosto de futebol e rugby. Qualquer esporte é um meio de conectar diferentes pessoas.
+
+---
+*"A única maneira de fazer um ótimo trabalho é amar o que você faz."* - Steve Jobs
 
