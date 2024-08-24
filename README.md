@@ -32,5 +32,6 @@ Estou sempre aberto a novas ideias e colaborações! Sinta-se à vontade para ab
 - 🏆 Esportes: Gosto de futebol e rugby. Qualquer esporte é um meio de conectar diferentes pessoas.
 
 ---
-*"A única maneira de fazer um ótimo trabalho é amar o que você faz."* - Steve Jobs
+*“Não se gerencia o que não se mede, não se mede o que não se define, não se define o que não se entende, e não há sucesso no que não se gerencia.”* -  William Edwards Deming
+*Entender - Definir - Medir - Gerenciar*
 
