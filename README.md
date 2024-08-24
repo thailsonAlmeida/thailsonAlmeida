@@ -33,5 +33,6 @@ Estou sempre aberto a novas ideias e colaborações! Sinta-se à vontade para ab
 
 ---
 *“Não se gerencia o que não se mede, não se mede o que não se define, não se define o que não se entende, e não há sucesso no que não se gerencia.”* -  William Edwards Deming
+---
 *Entender - Definir - Medir - Gerenciar*
 
