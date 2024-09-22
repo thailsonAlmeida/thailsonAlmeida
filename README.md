@@ -13,6 +13,7 @@ Sou um desenvolvedor apaixonado por Java e Spring Boot. Estou sempre em busca de
 - [Java: Caixa Eletrônico](https://github.com/thailsonAlmeida/spring_boot_caixapro): Desenvolvido com Spring Boot, H2 e Thymeleaf com objetivo de praticar o uso de desing patterns.
 - [React: Projeto ecommerce](https://github.com/thailsonAlmeida/react-desafio-projeto-estruturado.git): Projeto prático desenvolvido em curso com ReactJS.
 - [Flutter: Calculadora](https://github.com/thailsonAlmeida/calculadora_flutter): Consolidar conceitos flutter.
+- [Flutter: MyTasks](https://github.com/thailsonAlmeida/flutter_my_tasks.git) : Projeto flutter de gestão de atividades.
 
 
 ## Minhas Estatísticas no GitHub
