@@ -21,15 +21,16 @@ Sou um desenvolvedor apaixonado por Java e Spring Boot. Estou sempre em busca de
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thailsonAlmeida&layout=compact&theme=ayu-mirage)
 
 ## Conecte-se Comigo
-- [LinkedIn](https://www.linkedin.com/in/thailsonalmeida/)
-- [Email](mailto:thailson.aguia@gmail.com)
-
 <div>  
-  <a href="https://www.linkedin.com/in/thailsonalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href = "mailto:thailson.aguia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/thailsonpro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  
+  <a href="https://www.linkedin.com/in/thailsonalmeida/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
+  <a href = "mailto:thailson.aguia@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/thailsonpro" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ## Contribuições e Colaborações
