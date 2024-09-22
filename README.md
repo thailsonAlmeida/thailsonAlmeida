@@ -10,9 +10,9 @@ Sou um desenvolvedor apaixonado por Java e Spring Boot. Estou sempre em busca de
 - **Bancos de Dados:** MySQL, PostgreSQL, H2
 
 ## Projetos Destacados
-- [Caixa Eletrônico](https://github.com/thailsonAlmeida/spring_boot_caixapro): Desenvolvido com Spring Boot, H2 e Thymeleaf com objetivo de praticar o uso de desing patterns.
-- [Componente React](https://github.com/thailsonAlmeida/desafio_component_dev): Layout programado em React para consolidar conceito.
-- [Calculadora](https://github.com/thailsonAlmeida/calculadora_flutter): Desenvolvido em flutter para consolidar conceitos.
+- [Java: Caixa Eletrônico](https://github.com/thailsonAlmeida/spring_boot_caixapro): Desenvolvido com Spring Boot, H2 e Thymeleaf com objetivo de praticar o uso de desing patterns.
+- [React: Projeto ecommerce](https://github.com/thailsonAlmeida/react-desafio-projeto-estruturado.git): Projeto prático desenvolvido em curso com ReactJS.
+- [Flutter: Calculadora](https://github.com/thailsonAlmeida/calculadora_flutter): Consolidar conceitos flutter.
 
 
 ## Minhas Estatísticas no GitHub
