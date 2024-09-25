@@ -8,8 +8,8 @@ Sou um desenvolvedor apaixonado por Java e Spring Boot. Estou sempre em busca de
 - **Frameworks:** Spring Boot, React, Flutter
 - **Ferramentas:** Git, Maven
 - **Bancos de Dados:** MySQL, PostgreSQL, H2
-- **Design: ** Figma
-- **Analise de dados: ** Power BI
+- **Design:** Figma
+- **Analise de dados:** Power BI
 
 ## Projetos Destacados
 - [Java: Caixa Eletrônico](https://github.com/thailsonAlmeida/spring_boot_caixapro): Desenvolvido com Spring Boot, H2 e Thymeleaf com objetivo de praticar o uso de desing patterns.
