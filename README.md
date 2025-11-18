@@ -1,50 +1,40 @@
-# Olá! Eu sou Thailson 👋
+<h1>👋 &nbsp;Olá Sou Thailson Aspirante FullStack — Desenvolvedor Full‑Stack Júnior</h1>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/thailsonalmeida/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <!---- <a href=""><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> --->
+  <a href="mailto:thailson.aguia@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-## Sobre Mim
-Sou um desenvolvedor apaixonado por Java e Spring Boot. Estou sempre em busca de novas oportunidades para aprender e crescer, especialmente em desenvolvimento backend e arquitetura de software. Adoro resolver problemas e transformar ideias em código.
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+Sou o Thailson — profissional com 11 anos de indústria metalúrgica em transição para Desenvolvimento de Software. Trago visão analítica, disciplina e experiência em padronização e otimização de processos — agora aplicadas a construir aplicações que geram valor.
 
-## Tecnologias
-- **Linguagens:** Java, JavaScript, Dart
-- **Frameworks:** Spring Boot, React, Flutter
-- **Ferramentas:** Git, Maven
-- **Bancos de Dados:** MySQL, PostgreSQL, H2
-- **Design:** Figma
-- **Analise de dados:** Power BI
+Atualmente foco em Full‑Stack com React, Next.js, Node.js, TypeScript e Java/Spring Boot. Tenho 1–2 projetos em produção (gestão de clínicas; app para confeiteiro) e desenvolvo APIs REST com autenticação, testes e pipelines básicos de CI/CD.
 
-## Projetos Destacados
-- [Java: Caixa Eletrônico](https://github.com/thailsonAlmeida/spring_boot_caixapro): Desenvolvido com Spring Boot, H2 e Thymeleaf com objetivo de praticar o uso de desing patterns.
-- [React: Projeto ecommerce](https://github.com/thailsonAlmeida/react-desafio-projeto-estruturado.git): Projeto prático desenvolvido em curso com ReactJS.
-- [Flutter: Calculadora](https://github.com/thailsonAlmeida/calculadora_flutter): Consolidar conceitos flutter.
-- [Flutter: MyTasks](https://github.com/thailsonAlmeida/flutter_my_tasks.git) : Projeto flutter de gestão de atividades.
+O que eu entrego: converto requisitos em funcionalidades testadas e confiáveis — investigo problemas pelos logs, escrevo testes automatizados e automatizo deploys para reduzir retrabalho. Em projetos pessoais já implementei autenticação segura (JWT/OAuth2) e dashboards para tomada de decisão.
 
+Busco minha primeira oportunidade júnior em Full‑Stack onde eu possa aplicar minha visão de processo e aprender em equipe. 
 
-## Minhas Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thailsonAlmeida&show_icons=true&theme=ayu-mirage)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thailsonAlmeida&layout=compact&theme=ayu-mirage)
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
 
-## Conecte-se Comigo
-<div>  
-  <a href="https://www.linkedin.com/in/thailsonalmeida/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-  <a href = "mailto:thailson.aguia@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" >
-  </a>
-  <a href="https://www.instagram.com/thailsonpro" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-## Contribuições e Colaborações
-Estou sempre aberto a novas ideias e colaborações! Sinta-se à vontade para abrir issues ou enviar pull requests nos meus repositórios.
+<h3>⚙️ &nbsp;Back-end & databases:</h3>
 
-## Outros Interesses
-- 📚 Aprendizado: Gosto de conhecer e aprender coisas novas.
-- 🎬 Entrenimento: Gosto de assistir filmes, series e animes.
-- 🏆 Esportes: Gosto de futebol e rugby. Qualquer esporte é um meio de conectar diferentes pessoas.
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=E535AB)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
----
-*“Não se gerencia o que não se mede, não se mede o que não se define, não se define o que não se entende, e não há sucesso no que não se gerencia.”* -  William Edwards Deming
+<h2>🚀 &nbsp;My GitHub Stats</h2>
 
-**Entender - Definir - Medir - Gerenciar**
-
+![Thailson Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=thailsonAlmeida&show_icons=true&theme=dracula)
