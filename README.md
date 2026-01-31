@@ -5,13 +5,23 @@
 
 
 ## 👨🏻‍💻 About Me 
-Sou o Thailson — profissional com 11 anos de indústria metalúrgica em transição para Desenvolvimento de Software. Trago visão analítica, disciplina e experiência em padronização e otimização de processos — agora aplicadas a construir aplicações que geram valor.
+11 anos otimizando processos industriais. Agora, construindo o futuro do seu software.
 
-Atualmente foco em Full‑Stack com React, Next.js, Node.js, TypeScript e Java/Spring Boot. Tenho 1–2 projetos em produção (gestão de clínicas; app para confeiteiro) e desenvolvo APIs REST com autenticação, testes e pipelines básicos de CI/CD.
+Sabe qual é o maior custo de um software? O retrabalho e a falta de padrão.
 
-O que eu entrego: converto requisitos em funcionalidades testadas e confiáveis — investigo problemas pelos logs, escrevo testes automatizados e automatizo deploys para reduzir retrabalho. Em projetos pessoais já implementei autenticação segura (JWT/OAuth2) e dashboards para tomada de decisão.
+Vim de uma escola onde o erro custa caro e a precisão é a regra. Com 11 anos de experiência na indústria metalúrgica, aprendi que **padronização não é burocracia, é eficiência.** Hoje, aplico essa mesma disciplina analítica no desenvolvimento de software Full-Stack.
 
-Busco minha primeira oportunidade júnior em Full‑Stack onde eu possa aplicar minha visão de processo e aprender em equipe. 
+**O que eu trago para o seu time de engenharia:**
+- **Mentalidade de Processo:** Não escrevo apenas código; construo funcionalidades pensando no fluxo de ponta a ponta, visando reduzir a dívida técnica desde o primeiro commit.
+- **Foco em Resolução e Diagnóstico:** Minha experiência investigando falhas industriais me tornou especialista em ler logs, depurar problemas complexos e garantir que a solução seja definitiva.
+- **Qualidade Industrial (QA):** Implemento testes automatizados e deploys CI/CD porque acredito que código bom é código que sobrevive ao ambiente de produção sem sobressaltos.
+
+Meu Arsenal Tecnológico:
+- Front-end: React, Next.js e TypeScript (Interfaces focadas em performance).
+- Back-end: Java/Spring Boot, Node.js (Arquiteturas robustas e seguras)
+- Segurança e Dados: Implementação de JWT/OAuth2 e criação de dashboards para tomada de decisão baseada em dados reais.
+
+Estou em busca da minha primeira oportunidade como Desenvolvedor Full-Stack, onde eu possa unir minha maturidade profissional à agilidade das stacks modernas. Se você busca um desenvolvedor que entende que código deve gerar ROI, vamos conversar.
 
 ## 🛠 Tech Stack
 ### 💻 Front-end:
