@@ -30,7 +30,3 @@ Experiência prática no desenvolvimento de ponta a ponta (Full Stack), desde a 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-### 🚀 My GitHub Stats
-
-![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=thailsonAlmeida&show_icons=true&theme=dracula)
