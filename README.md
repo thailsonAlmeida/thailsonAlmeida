@@ -1,27 +1,13 @@
-# 👋 Olá Sou Thailson Aspirante FullStack — Desenvolvedor Full‑Stack Júnior
+# 👋 Olá Sou Thailson Aspirante a Software Engineer | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thailsonalmeida/)
 [![Email](https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:thailson.aguia@gmail.com)
 
 
 ## 👨🏻‍💻 About Me 
-11 anos otimizando processos industriais. Agora, construindo o futuro do seu software.
+Tenho sólida base analítica e formação em Análise e Desenvolvimento de Sistemas (IFSP). Transição de carreira apoiada por mais de 10 anos de experiência na indústria, onde apliquei metodologias de otimização (TPS/Lean Manufacturing) para desenvolver soluções de automação e inteligência de dados que reduziram o trabalho operacional em 13h/mês.
 
-Sabe qual é o maior custo de um software? O retrabalho e a falta de padrão.
-
-Vim de uma escola onde o erro custa caro e a precisão é a regra. Com 11 anos de experiência na indústria metalúrgica, aprendi que **padronização não é burocracia, é eficiência.** Hoje, aplico essa mesma disciplina analítica no desenvolvimento de software Full-Stack.
-
-**O que eu trago para o seu time de engenharia:**
-- **Mentalidade de Processo:** Não escrevo apenas código; construo funcionalidades pensando no fluxo de ponta a ponta, visando reduzir a dívida técnica desde o primeiro commit.
-- **Foco em Resolução e Diagnóstico:** Minha experiência investigando falhas industriais me tornou especialista em ler logs, depurar problemas complexos e garantir que a solução seja definitiva.
-- **Qualidade Industrial (QA):** Implemento testes automatizados e deploys CI/CD porque acredito que código bom é código que sobrevive ao ambiente de produção sem sobressaltos.
-
-Meu Arsenal Tecnológico:
-- Front-end: React, Next.js e TypeScript (Interfaces focadas em performance).
-- Back-end: Java/Spring Boot, Node.js (Arquiteturas robustas e seguras)
-- Segurança e Dados: Implementação de JWT/OAuth2 e criação de dashboards para tomada de decisão baseada em dados reais.
-
-Estou em busca da minha primeira oportunidade como Desenvolvedor Full-Stack, onde eu possa unir minha maturidade profissional à agilidade das stacks modernas. Se você busca um desenvolvedor que entende que código deve gerar ROI, vamos conversar.
+Experiência prática no desenvolvimento de ponta a ponta (Full Stack), desde a estruturação de bancos de dados e lógica de negócio até a criação de Dashboards gerenciais para suporte à decisão. Especialista em identificar desperdícios de processo e traduzi-los em arquiteturas de software eficientes, unindo o rigor da garantia de qualidade industrial (450 dias com zero falhas) à agilidade do desenvolvimento de sistemas modernos.
 
 ## 🛠 Tech Stack
 ### 💻 Front-end:
