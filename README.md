@@ -5,9 +5,17 @@
 
 
 ## 👨🏻‍💻 About Me 
-Tenho sólida base analítica e formação em Análise e Desenvolvimento de Sistemas (IFSP). Transição de carreira apoiada por mais de 10 anos de experiência na indústria, onde apliquei metodologias de otimização (TPS/Lean Manufacturing) para desenvolver soluções de automação e inteligência de dados que reduziram o trabalho operacional em 13h/mês.
+Graduado em Análise e Desenvolvimento de Sistemas com foco no ingresso e atuação no mercado de TI. 
+Possuo sólido conhecimento técnico em Java (Spring Boot), JavaScript (React/Next.js) e Python. 
+Combinando base acadêmica consolidada com experiência prática em análise de dados, criação de dashboards e automação de processos, busco aplicar minha capacidade analítica e proatividade no desenvolvimento de soluções tecnológicas eficientes.
 
-Experiência prática no desenvolvimento de ponta a ponta (Full Stack), desde a estruturação de bancos de dados e lógica de negócio até a criação de Dashboards gerenciais para suporte à decisão. Especialista em identificar desperdícios de processo e traduzi-los em arquiteturas de software eficientes, unindo o rigor da garantia de qualidade industrial (450 dias com zero falhas) à agilidade do desenvolvimento de sistemas modernos.
+Principais Competências:
+
+**Desenvolvimento:** Java, Spring Boot, JavaScript, React.js, Next.js, Python.
+
+**Análise de Dados:** Power BI, Excel avançado.
+
+**Soft Skills:** Raciocínio analítico, foco em melhoria de processos e aprendizado ágil.
 
 ## 🛠 Tech Stack
 ### 💻 Front-end:
